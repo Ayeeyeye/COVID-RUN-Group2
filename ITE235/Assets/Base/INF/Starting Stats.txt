@@ -1,0 +1,13 @@
+﻿>> PLAYER :
+
+$ RUN SPEED		-> Starting => 5
+$ RUN SPEED		-> MAX		=> 15
+
+$ LANE SWITCH	-> Starting => 5
+$ LANE SWITCH	-> MAX		=> 8
+
+>> OBSTACLE MANAGER
+
+
+$ SPAWN RATE	-> Starting	=> 3
+$ SPAWN RATE	-> MAX		=> 0.4		--> DECREMENT

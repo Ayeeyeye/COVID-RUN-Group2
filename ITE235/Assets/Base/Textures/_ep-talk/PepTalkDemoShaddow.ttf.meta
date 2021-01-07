@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8ff135cd3caf04020aaf88996298b6fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pep Talk Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b421fe01bf174444b85588a09ec4542c, type: 3}
+  - {fileID: 12800000, guid: a6505ce3a8c184e0897f3771a3d2b7d7, type: 3}
+  - {fileID: 12800000, guid: 98385b2a1d8f44443ad6e9a11d849d01, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

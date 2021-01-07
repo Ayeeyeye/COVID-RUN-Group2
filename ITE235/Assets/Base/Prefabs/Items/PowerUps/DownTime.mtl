@@ -1,0 +1,11 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl metal(Clone)
+Kd 0.2206898 0 1
+
+newmtl dark(Clone)
+Kd 1 1 1
+
+newmtl metalDark(Clone)
+Kd 1 0 0
+

@@ -1,0 +1,6 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl _defaultMat(Clone)
+Kd 0.278007 0.8689655 0.150094
+map_Kd Textures/_defaultMat(Clone).png
+

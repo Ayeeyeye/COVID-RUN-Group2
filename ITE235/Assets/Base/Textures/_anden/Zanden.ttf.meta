@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 883b6eeecfce041aca5fd1d16160d792
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zanden
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08aaf94186a3a449c930e59eac73b3bb, type: 3}
+  - {fileID: 12800000, guid: a3bd6d54d5cca434fb2d7c138c493383, type: 3}
+  - {fileID: 12800000, guid: d2c5e88a27f234a01a4a6ca5901dbeca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
